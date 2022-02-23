@@ -1,0 +1,5 @@
+com\vignesh\product\bo\ProductBO.class
+com\vignesh\product\dto\Product.class
+com\vignesh\product\bo\ProductBOImpl.class
+com\vignesh\product\dao\ProductDAO.class
+com\vignesh\product\dao\ProductDAOImpl.class
